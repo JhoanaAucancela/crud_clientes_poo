@@ -48,10 +48,10 @@ crud_clientes/
 ## Instalación
 
 1. Instalar [XAMPP](https://www.apachefriends.org/) e iniciar **Apache** y **MySQL**.
-2. Copiar la carpeta `crud_clientes` en `C:\xampp\htdocs\`.
+2. Copiar la carpeta `crud_clientes_poo` en `C:\xampp\htdocs\`.
 3. Abrir `http://localhost/phpmyadmin`, ir a la pestaña **SQL** y ejecutar el contenido de `database.sql`.
 4. Si MySQL tiene contraseña, actualizarla en `config/Database.php`.
-5. Abrir en el navegador: `http://localhost/crud_clientes/`
+5. Abrir en el navegador: `http://localhost/crud_clientes_poo`
 
 ## Tabla `clientes`
 
